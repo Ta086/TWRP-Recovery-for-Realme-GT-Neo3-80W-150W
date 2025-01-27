@@ -25,3 +25,5 @@
 文件介绍：
 1. 若当前系统版本的内核版本为 5.10.168，请刷入带有 5.10.168 文件名的 vendor_boot 镜像，以此类推。
 2. 文件名中带 F.xx，表示此 vendor_boot 镜像在 F.xx 版本中刷入最为合适。比如 F.37 版本应该刷入 F.37 版本的 vendor_boot 镜像
+![1000004411](https://github.com/user-attachments/assets/15913107-563c-4456-832b-6b33064643d8)
+![1000004410](https://github.com/user-attachments/assets/429621ab-4e16-451b-b4e2-d82291b748bf)
